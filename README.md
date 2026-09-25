@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Akhil%20R&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20Development%20%7C%20AI%2FML&descAlignY=55&descSize=18&descColor=a8dadc" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=E94560&center=true&vCenter=true&multiline=false&width=650&lines=Software+Developer+%7C+Backend+%2B+AI%2FML;Django+%7C+DRF+%7C+PyTorch+%7C+Flask;Published+in+IJSRET+%7C+VoiceGuard+Research;4x+Hackathon+Finalist+%7C+IIT+Madras+%2B+VIT;Final+Year+CSE+%40+KNCET+Trichy;Open+to+Full-Time+Roles+in+2027" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=E94560&center=true&vCenter=true&multiline=false&width=650&lines=Software+Developer+%7C+Backend+%2B+AI%2FML;Django+%7C+DRF+%7C+PyTorch+%7C+Flask;Published+in+IJSRET+%7C+VoiceGuard+Research;4x+Hackathon+Finalist+%7C+IIIT+Hyd+%2B+VIT+Bhopal;Final+Year+CSE+%40+KNCET+Trichy;Open+to+Full-Time+Roles+in+2027" alt="Typing SVG" />
 
 <br/>
 
@@ -24,10 +24,10 @@
 I am a **Software Developer** and final-year CSE student at Kongunadu College of Engineering and Technology, Tiruchirappalli. I specialise in **Backend Development** and **Applied AI/ML**, building production-ready systems that solve real problems.
 
 - B.E. CSE at KNCET, Trichy | 2023 to 2027 | CGPA: **7.30 / 10.0**
-- **3 Internships** in AI/ML, Cybersecurity and Backend Development
-- **4x Hackathon Finalist** at IIIT Hyderabad, VIT Chennai, VIT Bhopal and CISO Haryana
-- **Published Researcher** -- VoiceGuard in IJSRET Vol. 12, Issue 2, Mar 2026
-- Open to **Full-Time Roles** in Backend, Applied ML or Security
+- **3 Internships** in Backend Development, Cybersecurity and AI/ML
+- **4x Hackathon Finalist** at IIIT Hyderabad, VIT Bhopal, CSIO Haryana and Pondicherry
+- **Published Researcher** — VoiceGuard in IJSRET Vol. 12, Issue 2, 2026
+- Open to **Full-Time Roles** in Backend or Applied ML
 
 <br clear="right"/>
 
@@ -36,10 +36,10 @@ I am a **Software Developer** and final-year CSE student at Kongunadu College of
 ## Skill Levels
 
 ```text
-Backend Development     ||||||||||||||||||||||   Strong
-Applied AI / ML         ||||||||||||||||||||     Strong  
-Cybersecurity           ||||||||||||||||         Intermediate
-Signal Processing       ||||||||                 Exploring
+Backend Development     ||||||||||||||||||||||||||   Strong
+Applied AI / ML         ||||||||||||||||||||||||     Strong  
+Cybersecurity           ||||||||||||||||             Intermediate
+Signal Processing       ||||||||                     Exploring
 ```
 
 ---
@@ -47,6 +47,24 @@ Signal Processing       ||||||||                 Exploring
 ## Featured Projects
 
 <table>
+<tr>
+<td valign="top" width="50%">
+
+### [Marine Biodiversity Intelligence](https://github.com/Akhil-0911/Marine)
+Flask dashboard embedding DNA sequences into 768-dim vectors via DNABERT 6-mer tokenization, classifying species using HDBSCAN and UMAP clustering with Shannon/Simpson diversity indices.
+
+`Python` `DNABERT` `Flask` `HDBSCAN` `UMAP`
+
+</td>
+<td valign="top" width="50%">
+
+### [PADCOM](https://github.com/Akhil-0911/PADCOM_V3)
+AI-powered medical diagnostic platform detecting fractures, brain tumors and pneumonia — unifying ResNet50, ResNet18 and MONAI DenseNet into one Flask imaging pipeline.
+
+`PyTorch` `MONAI` `Flask` `Python`
+
+</td>
+</tr>
 <tr>
 <td valign="top" width="50%">
 
@@ -58,22 +76,14 @@ Signal analysis workstation for `.iq` and `.wav` files. Modulation ID, demodulat
 </td>
 <td valign="top" width="50%">
 
-### [Marine Bio Intelligence](https://github.com/Akhil-0911/Marine)
-AI-powered DNA species identification using DNABERT and HDBSCAN for marine biodiversity research.
-
-`Python` `DNABERT` `Flask` `HDBSCAN`
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
 ### [VulnScanner](https://github.com/Akhil-0911/Vuln_Scanner)
 Automated OWASP Top 10 vulnerability scanner with modular components and PDF security reports.
 
 `Python` `Nmap` `SQLMap`
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 ### [SecureVault](https://github.com/Akhil-0911/SecureVault)
@@ -82,8 +92,6 @@ AES-256 encrypted file vault with secure Flask backend and role-based access.
 `Python` `Flask` `AES-256`
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 ### [Smart Surveillance](https://github.com/Akhil-0911/Target_detection)
@@ -92,22 +100,14 @@ Real-time object detection and target tracking for smart surveillance systems.
 `YOLOv8` `OpenCV` `Python`
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 ### [Phishing Detector](https://github.com/Akhil-0911/Phishing)
 Gradient boosting ML model to classify and detect phishing URLs.
 
 `XGBoost` `Scikit-learn` `Python`
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### [PADCOM](https://github.com/Akhil-0911/PADCOM_V3)
-Deep learning classification pipeline combining PyTorch and TensorFlow.
-
-`PyTorch` `TensorFlow` `Python`
 
 </td>
 <td valign="top" width="50%">
@@ -143,17 +143,10 @@ RAG-based emotionally-aware chatbot running on a local LLM.
 **AI and ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Security**
-
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logoColor=white)
 
 **Databases and Tools**
 
@@ -173,9 +166,9 @@ RAG-based emotionally-aware chatbot running on a local LLM.
 <summary><b>Backend Developer Intern | VR Della Infotech | Jun 2025 to Jul 2025</b></summary>
 <br/>
 
-- Architected scalable RESTful API endpoints using Django REST Framework with full CRUD operations
-- Designed normalized MySQL schemas and wrote optimized ORM queries to reduce execution time
-- Implemented JWT-based authentication, role-based permissions and end-to-end API testing
+- Built an e-commerce backend (accounts, catalog, cart, orders) delivering 12+ REST endpoints using Django REST Framework and MySQL
+- Secured role-based access across all endpoints by implementing token-based authentication with endpoint testing
+- Enabled reliable checkout logic with full CRUD coverage by designing cart-to-order business logic
 
 **Stack:** Python, Django REST Framework, MySQL, JWT
 
@@ -185,11 +178,11 @@ RAG-based emotionally-aware chatbot running on a local LLM.
 <summary><b>Cybersecurity Intern | Cothon Solutions | Apr 2025 to Jun 2025</b></summary>
 <br/>
 
-- Built an automated vulnerability scanning tool aligned with OWASP Top 10
-- Developed modular security scanning components designed for extensibility
-- Automated PDF-based security reporting pipeline for client deliverables
+- Blocked unauthorized data movement by monitoring file system, email, USB and clipboard in a Python/PyQt5/Watchdog DLP app
+- Enforced six-department policies via role-based access, anomaly detection and encrypted storage
+- Validated reliability with a 96.97% test pass rate (32/33) and 12 flagged alerts using a PyQt5 reporting dashboard
 
-**Stack:** Python, OWASP Top 10, Security Automation, PDF Reporting
+**Stack:** Python, PyQt5, Watchdog, Security Automation
 
 </details>
 
@@ -197,11 +190,11 @@ RAG-based emotionally-aware chatbot running on a local LLM.
 <summary><b>AI and ML Intern | Edunet Foundation | Feb 2025 to Mar 2025</b></summary>
 <br/>
 
-- Developed deep learning models using PyTorch and CNN architectures
-- Applied transfer learning techniques to significantly improve model accuracy
-- Integrated trained models into a Flask application for real-time inference
+- Built an MRI-based brain tumor detector with binary classification and confidence scoring by fine-tuning ResNet18 via transfer learning
+- Standardised 224×224 RGB scan preprocessing by training and validating the model on the BraTS dataset
+- Delivered real-time confidence-scored predictions per scan by serving the model through a Flask REST endpoint
 
-**Stack:** Python, PyTorch, CNNs, Transfer Learning, Flask
+**Stack:** Python, PyTorch, ResNet18, Transfer Learning, Flask
 
 </details>
 
@@ -211,11 +204,12 @@ RAG-based emotionally-aware chatbot running on a local LLM.
 
 | | |
 |---|---|
-| Published Paper | VoiceGuard - AI-Based Voice Authenticity Detection System, IJSRET Vol. 12, Issue 2, Mar 2026 |
-| Hackathon Finalist | Shaastra Techathon 2024, IIT Madras |
-| Hackathon Finalist | Health Hackathon, VIT Bhopal x Johns Hopkins University, Feb 2025 |
-| Hackathon Finalist | Sustain-AI-Thon, VIT Chennai, Jan 2025 |
-| Hackathon Finalist | ArtiVerse 2.0, KNCET Trichy, Feb 2025 |
+| Published Paper | VoiceGuard — AI-Based Voice Authenticity Detection System, IJSRET Vol. 12, Issue 2, 2026 |
+| Hackathon Finalist | ANRF AISEHack 2026, IIIT Hyderabad |
+| Hackathon Finalist | IISF 2025 Hackathon, CSIO, Haryana |
+| Top Team | Health Hackathon, VIT Bhopal |
+| Hackathon Finalist | HackDay Pondy (0x.Day & SMVEC) |
+| Open Source | Contributed to KNCET's official Idealab website — idealab.kongunadu.ac.in |
 | Certification | AI Job Simulation, Forage x Cognizant |
 | Certification | Cybersecurity Analyst Simulation, Forage x TCS |
 | Certification | Internet of Things, NPTEL |

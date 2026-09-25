@@ -226,17 +226,14 @@ RAG-based emotionally-aware chatbot running on a local LLM.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil-0911&theme=radical" width="100%" alt="Profile Summary"/>
-
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akhil-0911&theme=radical" width="32%" alt="Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhil-0911&theme=radical" width="32%" alt="Top Languages by Repo"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akhil-0911&theme=radical" width="32%" alt="Top Languages by Commit"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Akhil-0911&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=e94560&ring=e94560&currStreakLabel=e94560" alt="GitHub Streak" width="70%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akhil-0911&theme=radical&utcOffset=5.5" width="48%" alt="Productive Time"/>
+<img src="https://streak-stats.demolab.com?user=Akhil-0911&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=e94560&ring=e94560&currStreakLabel=e94560" alt="GitHub Streak" width="48%"/>
 
 </div>
 

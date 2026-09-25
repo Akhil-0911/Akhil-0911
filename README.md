@@ -25,7 +25,7 @@ I am a **Software Developer** and final-year CSE student at Kongunadu College of
 
 - B.E. CSE at KNCET, Trichy | 2023 to 2027 | CGPA: **7.30 / 10.0**
 - **3 Internships** in AI/ML, Cybersecurity and Backend Development
-- **4x Hackathon Finalist** at IIT Madras, VIT Chennai, VIT Bhopal and KNCET
+- **4x Hackathon Finalist** at IIIT Hyderabad, VIT Chennai, VIT Bhopal and CISO Haryana
 - **Published Researcher** -- VoiceGuard in IJSRET Vol. 12, Issue 2, Mar 2026
 - Open to **Full-Time Roles** in Backend, Applied ML or Security
 

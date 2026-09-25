@@ -1,48 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akhil%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Security%20Researcher&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Akhil%20R&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20Development%20%7C%20AI%2FML&descAlignY=55&descSize=18&descColor=a8dadc" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+%40+KNCET%2C+Trichy;Backend+Engineer+%7C+Django+%2B+DRF;AI%2FML+Researcher+%7C+Published+in+IJSRET;Cybersecurity+Enthusiast;Open+to+Full-Time+Opportunities+2027" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=E94560&center=true&vCenter=true&multiline=false&width=650&lines=Software+Developer+%7C+Backend+%2B+AI%2FML;Django+%7C+DRF+%7C+PyTorch+%7C+Flask;Published+in+IJSRET+%7C+VoiceGuard+Research;4x+Hackathon+Finalist+%7C+IIT+Madras+%2B+VIT;Final+Year+CSE+%40+KNCET+Trichy;Open+to+Full-Time+Roles+in+2027" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil0911)
-[![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhilr.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=google-chrome&logoColor=e94560)](https://akhilr.web.app)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhil.kncet@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akhil_0911)
+[![X](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akhil_0911)
 
-<img src="https://komarev.com/ghpvc/?username=Akhil-0911&label=Profile+Views&color=58A6FF&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Akhil-0911&label=Profile+Views&color=e94560&style=flat-square&abbreviated=true" />
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 ## About Me
 
-I am a Computer Science and Engineering student at **Kongunadu College of Engineering and Technology**, Tiruchirappalli, building at the intersection of **Backend Systems**, **Applied ML**, and **Cybersecurity**.
-
-I ship real tools. From REST API backends to signal intelligence workstations to DNA-based species identification using transformers, every project I build solves a real problem.
+I am a **Software Developer** and final-year CSE student at Kongunadu College of Engineering and Technology, Tiruchirappalli. I specialise in **Backend Development** and **Applied AI/ML**, building production-ready systems that solve real problems.
 
 - B.E. CSE at KNCET, Trichy | 2023 to 2027 | CGPA: **7.30 / 10.0**
-- **3 Internships** across AI/ML, Cybersecurity and Backend Development
+- **3 Internships** in AI/ML, Cybersecurity and Backend Development
 - **4x Hackathon Finalist** at IIT Madras, VIT Chennai, VIT Bhopal and KNCET
-- **Published Researcher** in IJSRET (Vol. 12, Issue 2, March 2026)
-- Tiruchirappalli, Tamil Nadu, India
-- Open to **Full-Time Roles** in Backend Engineering, Applied ML or Security
+- **Published Researcher** -- VoiceGuard in IJSRET Vol. 12, Issue 2, Mar 2026
+- Open to **Full-Time Roles** in Backend, Applied ML or Security
 
 <br clear="right"/>
 
 ---
 
-## What I Build
+## Skill Levels
 
 ```text
-Backend Systems    |||||||||||||||||||||░░░░  Strong
-Applied AI / ML    ||||||||||||||||░░░░░░░░░  Strong
-Cybersecurity      ||||||||||||░░░░░░░░░░░░░  Intermediate
-Signal Processing  ||||||||░░░░░░░░░░░░░░░░░  Exploring
+Backend Development     ||||||||||||||||||||||   Strong
+Applied AI / ML         ||||||||||||||||||||     Strong  
+Cybersecurity           ||||||||||||||||         Intermediate
+Signal Processing       ||||||||                 Exploring
 ```
 
 ---
@@ -51,80 +48,72 @@ Signal Processing  ||||||||░░░░░░░░░░░░░░░░░  
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**[SigIQ](https://github.com/Akhil-0911/SigIQ)**
-
-Signal analysis workstation for .iq and .wav recordings. Covers modulation identification, demodulation, FEC decoding and bitstream correlation.
+### [SigIQ](https://github.com/Akhil-0911/SigIQ)
+Signal analysis workstation for `.iq` and `.wav` files. Modulation ID, demodulation, FEC decoding and bitstream correlation.
 
 `Python`
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-**[Marine Bio Intelligence](https://github.com/Akhil-0911/Marine)**
-
-AI-powered DNA species identification using DNABERT and HDBSCAN clustering for marine biodiversity analysis.
+### [Marine Bio Intelligence](https://github.com/Akhil-0911/Marine)
+AI-powered DNA species identification using DNABERT and HDBSCAN for marine biodiversity research.
 
 `Python` `DNABERT` `Flask` `HDBSCAN`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**[VulnScanner](https://github.com/Akhil-0911/Vuln_Scanner)**
-
-Automated OWASP Top 10 vulnerability scanner with modular scanning components and PDF security reports.
+### [VulnScanner](https://github.com/Akhil-0911/Vuln_Scanner)
+Automated OWASP Top 10 vulnerability scanner with modular components and PDF security reports.
 
 `Python` `Nmap` `SQLMap`
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-**[SecureVault](https://github.com/Akhil-0911/SecureVault)**
-
-AES-256 encrypted file vault with a secure Flask backend and role-based access control.
+### [SecureVault](https://github.com/Akhil-0911/SecureVault)
+AES-256 encrypted file vault with secure Flask backend and role-based access.
 
 `Python` `Flask` `AES-256`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**[Smart Surveillance](https://github.com/Akhil-0911/Target_detection)**
-
-Real-time object detection and target tracking system for smart surveillance use cases.
+### [Smart Surveillance](https://github.com/Akhil-0911/Target_detection)
+Real-time object detection and target tracking for smart surveillance systems.
 
 `YOLOv8` `OpenCV` `Python`
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-**[Phishing Detector](https://github.com/Akhil-0911/Phishing)**
-
-ML model to classify and detect phishing URLs with high accuracy using gradient boosting.
+### [Phishing Detector](https://github.com/Akhil-0911/Phishing)
+Gradient boosting ML model to classify and detect phishing URLs.
 
 `XGBoost` `Scikit-learn` `Python`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**[EcoLCA Pro](https://github.com/Akhil-0911/Ecolca_pro)**
+### [PADCOM](https://github.com/Akhil-0911/PADCOM_V3)
+Deep learning classification pipeline combining PyTorch and TensorFlow.
 
-Life-cycle assessment application with an ML-powered environmental analysis backend.
-
-`Python` `Flask` `PyTorch`
+`PyTorch` `TensorFlow` `Python`
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-**[Emotion Chatbot](https://github.com/Akhil-0911/Emotion-bot)**
-
-RAG-based emotionally-aware chatbot running on a local LLM with Ollama.
+### [Emotion Chatbot](https://github.com/Akhil-0911/Emotion-bot)
+RAG-based emotionally-aware chatbot running on a local LLM.
 
 `RAG` `Ollama` `Python`
 
@@ -147,7 +136,7 @@ RAG-based emotionally-aware chatbot running on a local LLM with Ollama.
 **Backend**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
@@ -185,8 +174,8 @@ RAG-based emotionally-aware chatbot running on a local LLM with Ollama.
 <br/>
 
 - Architected scalable RESTful API endpoints using Django REST Framework with full CRUD operations
-- Designed normalized MySQL database schemas and wrote optimized ORM queries to reduce execution time
-- Implemented JWT-based authentication, role-based permissions and end-to-end API testing workflows
+- Designed normalized MySQL schemas and wrote optimized ORM queries to reduce execution time
+- Implemented JWT-based authentication, role-based permissions and end-to-end API testing
 
 **Stack:** Python, Django REST Framework, MySQL, JWT
 
@@ -196,7 +185,7 @@ RAG-based emotionally-aware chatbot running on a local LLM with Ollama.
 <summary><b>Cybersecurity Intern | Cothon Solutions | Apr 2025 to Jun 2025</b></summary>
 <br/>
 
-- Built an automated vulnerability scanning tool aligned with OWASP Top 10 standards
+- Built an automated vulnerability scanning tool aligned with OWASP Top 10
 - Developed modular security scanning components designed for extensibility
 - Automated PDF-based security reporting pipeline for client deliverables
 
@@ -209,7 +198,7 @@ RAG-based emotionally-aware chatbot running on a local LLM with Ollama.
 <br/>
 
 - Developed deep learning models using PyTorch and CNN architectures
-- Applied transfer learning techniques to improve model accuracy significantly
+- Applied transfer learning techniques to significantly improve model accuracy
 - Integrated trained models into a Flask application for real-time inference
 
 **Stack:** Python, PyTorch, CNNs, Transfer Learning, Flask
@@ -220,7 +209,7 @@ RAG-based emotionally-aware chatbot running on a local LLM with Ollama.
 
 ## Highlights
 
-| Category | Detail |
+| | |
 |---|---|
 | Published Paper | VoiceGuard - AI-Based Voice Authenticity Detection System, IJSRET Vol. 12, Issue 2, Mar 2026 |
 | Hackathon Finalist | Shaastra Techathon 2024, IIT Madras |
@@ -237,12 +226,17 @@ RAG-based emotionally-aware chatbot running on a local LLM with Ollama.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhil-0911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-0911&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil-0911&theme=tokyonight" width="100%" alt="Profile Summary"/>
 
-<img src="https://streak-stats.demolab.com?user=Akhil-0911&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akhil-0911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akhil-0911&theme=tokyonight" width="32%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhil-0911&theme=tokyonight" width="32%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akhil-0911&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Akhil-0911&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="70%"/>
 
 </div>
 
@@ -250,7 +244,7 @@ RAG-based emotionally-aware chatbot running on a local LLM with Ollama.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
 
 *"Build things that matter. Ship early. Learn always."*
 

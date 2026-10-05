@@ -42,10 +42,7 @@ Final-year CSE student at KNCET, Tiruchirappalli. I build Django and Flask backe
 <td width="50%"><a href="https://github.com/Akhil-0911/Emotion-bot"><img src="./card-mentor.svg" alt="AI Life Mentor" width="100%"/></a></td>
 <td width="50%"><a href="https://doi.org/10.5281/zenodo.19480877"><img src="./card-voice.svg" alt="VoiceGuard, published in IJSRET 2026" width="100%"/></a></td>
 </tr>
-<tr>
-<td width="50%"><a href="https://github.com/Akhil-0911/Target_detection"><img src="./card-surveil.svg" alt="Smart Surveillance" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/Akhil-0911/Phishing"><img src="./card-phish.svg" alt="Phishing Detector" width="100%"/></a></td>
-</tr>
+
 </table>
 
 <div align="center"><sub>Click a card to open the repo or paper. More in <a href="https://github.com/Akhil-0911?tab=repositories">all repositories</a>.</sub></div>

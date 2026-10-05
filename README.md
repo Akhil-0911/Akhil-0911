@@ -54,9 +54,6 @@ Final-year CSE student at KNCET, Tiruchirappalli. I build Django and Flask backe
 
 <img src="./timeline.svg" alt="Timeline from 2023 to 2027: B.E. CSE, hackathons, three internships, IISF, AISEHack, VoiceGuard, graduating 2027" width="100%"/>
 
-<img src="./header-certs.svg" alt="Certifications" width="100%"/>
-
-<img src="./certs.svg" alt="Certifications: Forage Cognizant, Forage TCS, NPTEL IoT, MongoDB Basics, Infosys Springboard GPT-3" width="100%"/>
 
 <img src="./header-contact.svg" alt="Contact" width="100%"/>
 

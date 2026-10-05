@@ -52,17 +52,8 @@ Final-year CSE student at KNCET, Tiruchirappalli. I build Django and Flask backe
 
 <br/>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhil-0911/Akhil-0911/output/github-snake-dark.svg">
-  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/Akhil-0911/Akhil-0911/output/github-snake.svg" width="100%">
-</picture>
-
-</div>
-
 <img src="./header-contact.svg" alt="Contact" width="100%"/>
 
 Looking for a backend or applied ML role starting 2027 (on-site, hybrid or remote). The fastest way to reach me is [email](mailto:akhil.kncet@gmail.com).
 
-<img src="./footer.svg" alt="Build things that matter. Ship early. Learn always." width="100%"/>
+<img src="./footer-waves.svg" alt="Build things that matter. Ship early. Learn always." width="100%"/>

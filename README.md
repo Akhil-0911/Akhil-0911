@@ -17,23 +17,7 @@
 
 <img src="./header-about.svg" alt="About" width="100%"/>
 
-<table>
-<tr>
-<td width="56%" valign="middle">
-
-Final-year CSE student at KNCET, Tiruchirappalli. I build Django and Flask backends with token-based access control, and the ML systems behind them: voice-deepfake detection, medical imaging, satellite flood mapping.
-
-I also try to break what I build, with an OWASP Top 10 scanner and a data-loss-prevention tool.
-
-**Based in** Tiruchirappalli, Tamil Nadu<br/>
-**Studying** B.E. Computer Science, 2023 to 2027<br/>
-**Focus** Backend engineering and applied ML<br/>
-**Status** Open to full-time roles, 2027
-
-</td>
-<td width="44%" align="right" valign="middle"><img src="./portrait-binary.svg" alt="Portrait of Akhil R drawn with flickering binary digits" width="100%"/></td>
-</tr>
-</table>
+Final-year CSE student at KNCET, Tiruchirappalli. I build Django and Flask backends with token-based access control, and the ML systems behind them: voice-deepfake detection, medical imaging, satellite flood mapping. I also try to break what I build, with an OWASP Top 10 scanner and a data-loss-prevention tool.
 
 <img src="./header-stack.svg" alt="Stack" width="100%"/>
 
